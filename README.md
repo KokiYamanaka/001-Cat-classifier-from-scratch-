@@ -10,4 +10,3 @@ A simple logistic regression classifier to recognize cats.
 ![c2](https://user-images.githubusercontent.com/107101940/184736950-d3d7d901-ccb3-4850-b443-300d559c5869.PNG)
 ![c3](https://user-images.githubusercontent.com/107101940/184736955-f8b14033-7cea-42cf-9b27-3bbe3fed34bf.PNG)
 ![c4](https://user-images.githubusercontent.com/107101940/184736960-b7bd2e8e-f7d0-48f8-a85d-9b003bde481c.PNG)
-
