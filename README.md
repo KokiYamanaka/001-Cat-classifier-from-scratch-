@@ -1,4 +1,4 @@
-# Cat-classifier-from-scratch-001
+# Cat-classifier-from-scratch with numpy-001
 A simple logistic regression classifier to recognize cats. 
 
 
